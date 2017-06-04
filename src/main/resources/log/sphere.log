@@ -1,0 +1,222 @@
+2017-06-04 12:49:20 [main] [ERROR] >>> input exception
+2017-06-04 12:49:20 [main] [WARN] >>> coordinates not valid: bla, bla, bla
+2017-06-04 12:49:20 [main] [WARN] >>> coordinates not valid: 1..0, 1..., +-+11
+2017-06-04 12:49:20 [main] [WARN] >>> radius not valid, coordinates: 1, 1, 1, radius: -1
+2017-06-04 12:49:20 [main] [WARN] >>> radius not valid, coordinates: +1, 2, 3, radius: 0
+2017-06-04 12:49:20 [main] [INFO] >>> Results: 
+Sphere1014 {centre=(-11.0, 1.0, 1.0), radius=2.0}
+SphereCharacteristics1014{sphereSurfaceArea=50,265, sphereVolume=33,510,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 5,400',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 5,400',
+ intersectionYOZ='this sphere do not intersect with YOZ'}
+
+Sphere1015 {centre=(5.0, 7.0, 2.0), radius=6.0}
+SphereCharacteristics1015{sphereSurfaceArea=452,389, sphereVolume=904,779,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 2,857',
+ intersectionXOZ='this sphere do not intersect with XOZ',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 49,824'}
+
+Sphere1016 {centre=(-1.0, 5.0, -1.0), radius=25.0}
+SphereCharacteristics1016{sphereSurfaceArea=7853,982, sphereVolume=65449,847,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 0,887',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 1,841',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 0,887'}
+
+2017-06-04 12:50:38 [main] [ERROR] >>> input exception
+2017-06-04 12:50:38 [main] [WARN] >>> coordinates not valid: bla, bla, bla
+2017-06-04 12:50:38 [main] [WARN] >>> coordinates not valid: 1..0, 1..., +-+11
+2017-06-04 12:50:38 [main] [WARN] >>> radius not valid, coordinates: 1, 1, 1, radius: -1
+2017-06-04 12:50:38 [main] [INFO] >>> sphere before change: 
+Sphere1011 {centre=(1.0, 1.0, 1.0), radius=1.0}
+2017-06-04 12:50:38 [main] [INFO] >>> sphere after change: 
+Sphere1011 {centre=(3.0, 3.0, 3.0), radius=3.0}
+2017-06-04 12:50:38 [main] [WARN] >>> radius not valid, coordinates: +1, 2, 3, radius: 0
+2017-06-04 12:50:38 [main] [INFO] >>> Results: 
+Sphere1014 {centre=(-11.0, 1.0, 1.0), radius=2.0}
+SphereCharacteristics1014{sphereSurfaceArea=50,265, sphereVolume=33,510,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 5,400',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 5,400',
+ intersectionYOZ='this sphere do not intersect with YOZ'}
+
+Sphere1015 {centre=(5.0, 7.0, 2.0), radius=6.0}
+SphereCharacteristics1015{sphereSurfaceArea=452,389, sphereVolume=904,779,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 2,857',
+ intersectionXOZ='this sphere do not intersect with XOZ',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 49,824'}
+
+Sphere1016 {centre=(-1.0, 5.0, -1.0), radius=25.0}
+SphereCharacteristics1016{sphereSurfaceArea=7853,982, sphereVolume=65449,847,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 0,887',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 1,841',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 0,887'}
+
+2017-06-04 13:00:23 [main] [ERROR] >>> input exception
+2017-06-04 13:00:23 [main] [WARN] >>> coordinates not valid: bla, bla, bla
+2017-06-04 13:00:23 [main] [WARN] >>> coordinates not valid: 1..0, 1..., +-+11
+2017-06-04 13:00:23 [main] [INFO] >>> sphere before change: 
+Sphere1011 {centre=(1.0, 1.0, 1.0), radius=1.0}
+2017-06-04 13:00:23 [main] [INFO] >>> sphere after change: 
+Sphere1011 {centre=(3.0, 3.0, 3.0), radius=3.0}
+2017-06-04 13:00:41 [main] [ERROR] >>> input exception
+2017-06-04 13:00:41 [main] [WARN] >>> coordinates not valid: bla, bla, bla
+2017-06-04 13:00:41 [main] [WARN] >>> coordinates not valid: 1..0, 1..., +-+11
+2017-06-04 13:00:41 [main] [INFO] >>> sphere before change: 
+Sphere1011 {centre=(1.0, 1.0, 1.0), radius=1.0}
+2017-06-04 13:00:41 [main] [INFO] >>> sphere after change: 
+Sphere1011 {centre=(3.0, 3.0, 3.0), radius=3.0}
+2017-06-04 13:04:54 [main] [ERROR] >>> input exception
+2017-06-04 13:04:54 [main] [WARN] >>> coordinates not valid: bla, bla, bla
+2017-06-04 13:04:54 [main] [WARN] >>> coordinates not valid: 1..0, 1..., +-+11
+2017-06-04 13:04:55 [main] [INFO] >>> sphere before change: 
+Sphere1011 {centre=(1.0, 1.0, 1.0), radius=1.0}
+2017-06-04 13:04:55 [main] [INFO] >>> sphere after change: 
+Sphere1011 {centre=(3.0, 3.0, 3.0), radius=3.0}
+2017-06-04 13:04:55 [main] [INFO] >>> Results: 
+Sphere1014 {centre=(-11.0, 1.0, 1.0), radius=2.0}
+SphereCharacteristics1014{sphereSurfaceArea=50,265, sphereVolume=33,510,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 5,400',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 5,400',
+ intersectionYOZ='this sphere do not intersect with YOZ'}
+
+Sphere1015 {centre=(5.0, 7.0, 2.0), radius=6.0}
+SphereCharacteristics1015{sphereSurfaceArea=452,389, sphereVolume=904,779,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 2,857',
+ intersectionXOZ='this sphere do not intersect with XOZ',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 49,824'}
+
+Sphere1016 {centre=(-1.0, 5.0, -1.0), radius=25.0}
+SphereCharacteristics1016{sphereSurfaceArea=7853,982, sphereVolume=65449,847,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 0,887',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 1,841',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 0,887'}
+
+2017-06-04 13:05:16 [main] [ERROR] >>> input exception
+2017-06-04 13:05:16 [main] [WARN] >>> coordinates not valid: bla, bla, bla
+2017-06-04 13:05:16 [main] [WARN] >>> coordinates not valid: 1..0, 1..., +-+11
+2017-06-04 13:05:16 [main] [INFO] >>> sphere before change: 
+Sphere1011 {centre=(1.0, 1.0, 1.0), radius=1.0}
+2017-06-04 13:05:16 [main] [INFO] >>> sphere after change: 
+Sphere1011 {centre=(3.0, 3.0, 3.0), radius=3.0}
+2017-06-04 13:05:16 [main] [INFO] >>> Results: 
+Sphere1014 {centre=(-11.0, 1.0, 1.0), radius=2.0}
+SphereCharacteristics1014{sphereSurfaceArea=50,265, sphereVolume=33,510,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 5,400',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 5,400',
+ intersectionYOZ='this sphere do not intersect with YOZ'}
+
+Sphere1015 {centre=(5.0, 7.0, 2.0), radius=6.0}
+SphereCharacteristics1015{sphereSurfaceArea=452,389, sphereVolume=904,779,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 2,857',
+ intersectionXOZ='this sphere do not intersect with XOZ',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 49,824'}
+
+Sphere1016 {centre=(-1.0, 5.0, -1.0), radius=25.0}
+SphereCharacteristics1016{sphereSurfaceArea=7853,982, sphereVolume=65449,847,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 0,887',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 1,841',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 0,887'}
+
+2017-06-04 13:06:08 [main] [ERROR] >>> input exception
+2017-06-04 13:06:08 [main] [WARN] >>> coordinates not valid: bla, bla, bla
+2017-06-04 13:06:08 [main] [WARN] >>> coordinates not valid: 1..0, 1..., +-+11
+2017-06-04 13:06:08 [main] [INFO] >>> sphere before change: 
+Sphere1011 {centre=(1.0, 1.0, 1.0), radius=1.0}
+2017-06-04 13:06:08 [main] [INFO] >>> sphere after change: 
+Sphere1011 {centre=(3.0, 3.0, 3.0), radius=3.0}
+2017-06-04 13:06:08 [main] [INFO] >>> Results: 
+Sphere1014 {centre=(-11.0, 1.0, 1.0), radius=2.0}
+SphereCharacteristics1014{sphereSurfaceArea=50,265, sphereVolume=33,510,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 5,400',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 5,400',
+ intersectionYOZ='this sphere do not intersect with YOZ'}
+
+Sphere1015 {centre=(5.0, 7.0, 2.0), radius=6.0}
+SphereCharacteristics1015{sphereSurfaceArea=452,389, sphereVolume=904,779,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 2,857',
+ intersectionXOZ='this sphere do not intersect with XOZ',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 49,824'}
+
+Sphere1016 {centre=(-1.0, 5.0, -1.0), radius=25.0}
+SphereCharacteristics1016{sphereSurfaceArea=7853,982, sphereVolume=65449,847,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 0,887',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 1,841',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 0,887'}
+
+2017-06-04 13:12:42 [main] [ERROR] >>> input exception
+2017-06-04 13:12:42 [main] [WARN] >>> coordinates not valid: bla, bla, bla
+2017-06-04 13:12:42 [main] [WARN] >>> coordinates not valid: 1..0, 1..., +-+11
+2017-06-04 13:12:42 [main] [INFO] >>> sphere before change: 
+Sphere1011 {centre=(1.0, 1.0, 1.0), radius=1.0}
+2017-06-04 13:12:42 [main] [INFO] >>> sphere after change: 
+Sphere1011 {centre=(3.0, 3.0, 3.0), radius=3.0}
+2017-06-04 13:12:42 [main] [INFO] >>> Results: 
+Sphere1014 {centre=(-11.0, 1.0, 1.0), radius=2.0}
+SphereCharacteristics1014{sphereSurfaceArea=50,265, sphereVolume=33,510,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 5,400',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 5,400',
+ intersectionYOZ='this sphere do not intersect with YOZ'}
+
+Sphere1015 {centre=(5.0, 7.0, 2.0), radius=6.0}
+SphereCharacteristics1015{sphereSurfaceArea=452,389, sphereVolume=904,779,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 2,857',
+ intersectionXOZ='this sphere do not intersect with XOZ',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 49,824'}
+
+Sphere1016 {centre=(-1.0, 5.0, -1.0), radius=25.0}
+SphereCharacteristics1016{sphereSurfaceArea=7853,982, sphereVolume=65449,847,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 0,887',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 1,841',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 0,887'}
+
+2017-06-04 22:13:00 [main] [ERROR] >>> input exception
+2017-06-04 22:13:00 [main] [WARN] >>> coordinates not valid: bla, bla, bla
+2017-06-04 22:13:00 [main] [WARN] >>> coordinates not valid: 1..0, 1..., +-+11
+2017-06-04 22:13:00 [main] [INFO] >>> sphere before change: 
+Sphere1011 {centre=(1.0, 1.0, 1.0), radius=1.0}
+2017-06-04 22:13:00 [main] [INFO] >>> sphere after change: 
+Sphere1011 {centre=(3.0, 3.0, 3.0), radius=3.0}
+2017-06-04 22:13:00 [main] [INFO] >>> Results: 
+Sphere1014 {centre=(-11.0, 1.0, 1.0), radius=2.0}
+SphereCharacteristics1014{sphereSurfaceArea=50,265, sphereVolume=33,510,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 5,400',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 5,400',
+ intersectionYOZ='this sphere do not intersect with YOZ'}
+
+Sphere1015 {centre=(5.0, 7.0, 2.0), radius=6.0}
+SphereCharacteristics1015{sphereSurfaceArea=452,389, sphereVolume=904,779,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 2,857',
+ intersectionXOZ='this sphere do not intersect with XOZ',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 49,824'}
+
+Sphere1016 {centre=(-1.0, 5.0, -1.0), radius=25.0}
+SphereCharacteristics1016{sphereSurfaceArea=7853,982, sphereVolume=65449,847,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 0,887',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 1,841',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 0,887'}
+
+2017-06-04 22:15:13 [main] [ERROR] >>> input exception
+2017-06-04 22:15:13 [main] [WARN] >>> coordinates not valid: bla, bla, bla
+2017-06-04 22:15:13 [main] [WARN] >>> coordinates not valid: 1..0, 1..., +-+11
+2017-06-04 22:15:13 [main] [INFO] >>> sphere before change: 
+Sphere1011 {centre=(1.0, 1.0, 1.0), radius=1.0}
+2017-06-04 22:15:13 [main] [INFO] >>> sphere after change: 
+Sphere1011 {centre=(3.0, 3.0, 3.0), radius=3.0}
+2017-06-04 22:15:13 [main] [INFO] >>> Results: 
+Sphere1014 {centre=(-11.0, 1.0, 1.0), radius=2.0}
+SphereCharacteristics1014{sphereSurfaceArea=50,265, sphereVolume=33,510,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 5,400',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 5,400',
+ intersectionYOZ='this sphere do not intersect with YOZ'}
+
+Sphere1015 {centre=(5.0, 7.0, 2.0), radius=6.0}
+SphereCharacteristics1015{sphereSurfaceArea=452,389, sphereVolume=904,779,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 2,857',
+ intersectionXOZ='this sphere do not intersect with XOZ',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 49,824'}
+
+Sphere1016 {centre=(-1.0, 5.0, -1.0), radius=25.0}
+SphereCharacteristics1016{sphereSurfaceArea=7853,982, sphereVolume=65449,847,
+ intersectionXOY='this sphere intersect with XOY, values ratio: 0,887',
+ intersectionXOZ='this sphere intersect with XOZ, values ratio: 1,841',
+ intersectionYOZ='this sphere intersect with YOZ, values ratio: 0,887'}
+
